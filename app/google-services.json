@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "645540258862",
+    "project_id": "organizze-app-thymont",
+    "storage_bucket": "organizze-app-thymont.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645540258862:android:1ba3820034f905ce9cabbf",
+        "android_client_info": {
+          "package_name": "com.thymont.cloneorganizze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645540258862-qrjppqhn7esfnea9e9b3gno2i10q1on3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thymont.cloneorganizze",
+            "certificate_hash": "215eef7b1aaa7614b71e3addac9530e184c2ff5e"
+          }
+        },
+        {
+          "client_id": "645540258862-85rqv7d9ooscdak7v8udokkvfmnnrmdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjVWUd_WWMO7LXk0RPzTjGOG0XnaeT1h0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645540258862-85rqv7d9ooscdak7v8udokkvfmnnrmdj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
